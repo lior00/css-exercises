@@ -1,0 +1,26 @@
+.par {
+    background-color: #FF000060;
+    text-align: left;
+    color: black;
+}
+.par.par1 {
+    font-size: 20px
+}
+.par.par3 {
+    font-size: 20px;
+}
+.par.par2 {
+    font-size: 28px;
+}
+#div-one {
+    background-color: transparent;
+    color: blue;
+    font-size: 32px;
+    font-weight: bold;
+}
+#another-div {
+    background-color: #00FF0080;
+    text-align: left;
+    font-weight: bold;
+    font-size: 24px;
+}
