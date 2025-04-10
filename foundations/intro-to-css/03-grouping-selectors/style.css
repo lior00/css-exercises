@@ -1,0 +1,13 @@
+button {
+ text-align: center;
+ font-size: 36px;
+ border-color: black;
+}
+.left {
+    color: white;
+    background-color: black;
+}
+.right {
+    color: black;
+    background-color: yellow;
+}
