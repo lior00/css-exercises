@@ -11,7 +11,7 @@ body {
 .para {
   font-size: 22px;
 }
-/* Changed the order of selectors */
+/* Changed the order of decleration blocks */
 .small-para {
   font-size: 14px;
   font-weight: 800;
@@ -22,7 +22,7 @@ body {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
-/* Changed the order of selectors */
+/* Changed the order of decleration blocks */
 .confirm {
   background: green;
   color: white;
